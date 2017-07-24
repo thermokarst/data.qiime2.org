@@ -63,9 +63,9 @@ MAP = {
 
     # 2017.7 DISTRO
     'distro/core/qiime2-2017.7-conda-osx-64.txt':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.6/release/qiime2-2017.7-conda-osx-64.txt',
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.7/release/qiime2-2017.7-conda-osx-64.txt',
     'distro/core/qiime2-2017.7-conda-linux-64.txt':
-        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.6/release/qiime2-2017.7-conda-linux-64.txt',
+        'https://raw.githubusercontent.com/qiime2/environment-files/master/2017.7/release/qiime2-2017.7-conda-linux-64.txt',
     'distro/core/2017.7':
         'http://google.com',
     'distro/core/qiime20177-BUILD.zip':
